@@ -5,7 +5,7 @@ Links
 
 Preview - https://streamable.com/qotc36
 GitHub - https://github.com/MrSkeeps/Ron-Banking
-Forum - 
+Forum - https://forum.cfx.re/t/ron-banking-fivem-script-esx/4453223
 My Discord - https://discord.gg/c7k6qxHE8B
 
 How to install
@@ -23,4 +23,4 @@ Esc to Exit
 DO NOT UPLOAD OR DISTRIBUTE 
 THIS FILE WITHOUT EXPLICIT PERMISSION
 
-All Credits - MrSkeeps - ilAnDev
+All Credits - MrSkeeps
