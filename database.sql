@@ -1,0 +1,3 @@
+ALTER TABLE `users`
+	ADD COLUMN `last` int(11) NULL DEFAULT NULL
+;
